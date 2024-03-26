@@ -1,0 +1,367 @@
+.card-header {
+  width: 558px;
+  height: 130px;
+  background-color: orange;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.header-soat {
+  color: black;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.icon-antena {
+  width: 15px;
+  gap: 50px;
+  margin-left: 450px;
+  padding-top: -80px;
+}
+
+.hamburger-icon {
+  padding-top: 10px;
+  width: 40px;
+}
+
+.recipe {
+  color: black;
+  margin-top: -65px;
+  margin-left: 180px;
+  font-size: 30px;
+}
+
+.search {
+  border: solid 1px gray;
+  width: 540px;
+  background-color: #fff;
+  height: 35px;
+  margin-left: 5px;
+  margin-top: -60px;
+  border-radius: 10px;
+}
+
+.hero-center-left-h1 {
+  font-size: 25px;
+  color: black;
+  margin-left: 20px;
+}
+
+.hero-center-left-p {
+  color: rgb(255, 166, 0);
+  margin-left: 19px;
+  margin-top: -15px;
+}
+
+.taom-center-card {
+  margin-top: 100px;
+  margin-left: 30px;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border-top-right-radius: 40%;
+  border-top-left-radius: 40%;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.taom-center-card2 {
+  margin-top: -200px;
+  margin-left: 320px;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border-top-right-radius: 40%;
+  border-top-left-radius: 40%;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.taom-center-img {
+  width: 350px;
+  margin-top: -140px;
+  margin-left: -70px;
+}
+
+.taom-center-img2 {
+  width: 330px;
+  margin-top: -135px;
+  margin-left: -67px;
+}
+
+.spanbeans {
+  color: gray;
+}
+
+.spanbeans2 {
+  color: gray;
+}
+
+.taom-1-h5-keto {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  margin-top: -70px;
+  margin-left: 20px;
+}
+
+.taom-1-h5-keto2 {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  margin-top: -90px;
+  margin-left: 20px;
+}
+
+.frame-center-img {
+  position: absolute;
+  width: 50px;
+  margin-top: -60px;
+  margin-left: 165px;
+}
+
+.frame-center-img2 {
+  position: absolute;
+  width: 50px;
+  margin-top: -50px;
+  margin-left: 130px;
+}
+
+.login-card {
+  background-color: orange;
+  width: 558px;
+  height: 303px;
+  margin-top: 100px;
+  border: 1px white solid;
+  border-radius: 20px;
+}
+
+.login-card-h1 {
+  color: #fff;
+  margin-left: 30px;
+}
+
+.login-card-btn__login {
+  background-color: orange;
+  border: solid 1px white;
+  color: rgb(75, 67, 67);
+  width: 150px;
+  height: 44px;
+  border-radius: 22px;
+  margin-left: 30px;
+  font-size: 20px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+  margin-top: 50px;
+  position: absolute;
+}
+
+.login-card-btn__login:active {
+  transition: all 0.1s ease-in-out;
+  background-color: white;
+  color: orange;
+}
+
+.taom-ochpaz-oldidagi {
+  position: absolute;
+  width: 150px;
+  margin-top: 110px;
+  margin-left: 200px;
+}
+
+.taom-ochpaz {
+  width: 250px;
+  margin-top: -7px;
+  margin-left: 270px;
+}
+
+.bottom-card {
+  border-radius: 50px;
+  background-color: #fff;
+  width: 532px;
+  height: 192px;
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+
+.bottom-card-mung {
+  margin-left: 20px;
+  width: 200px;
+  margin-top: 20px;
+}
+
+.bottom-card__mung {
+  color: black;
+  margin-left: 222px;
+  margin-top: -130px;
+  margin-left: 235px;
+}
+
+.bottom-card-reduce {
+  margin-left: 235px;
+  color: orange;
+  margin-top: -10px;
+}
+
+.hero-left-h5 {
+  margin-left: 50px;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+.hero-right-h5 {
+  margin-left: 480px;
+  color: gray;
+  margin-top: -50px;
+}
+
+.navbar {
+  border-radius: 20px;
+  margin-left: 5px;
+  background-color: #fff;
+  width: 530px;
+  height: 222px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 60px;
+}
+
+.list {
+  margin-top: 110px;
+}
+
+.list-link {
+  width: 222px;
+}
+
+.world-img {
+  width: 87px;
+  margin-top: -22px;
+}
+
+.world-img:hover {
+  transition: all 1s ease-out;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.world:active {
+  background-color: red;
+}
+
+.home-img {
+  margin-top: 50px;
+}
+
+.yure-img {
+  margin-top: 50px;
+}
+
+.save-img {
+  margin-top: 50px;
+}
+
+.user-img {
+  margin-top: 50px;
+}
+
+@media (max-width: 578px) {
+  .card-header {
+    width: 398px;
+  }
+  .icon-antena {
+    margin-left: 300px;
+    padding-top: -80px;
+  }
+  .recipe {
+    margin-left: 120px;
+  }
+  .search {
+    width: 351px;
+    margin-left: 20px;
+  }
+  .hero-center-left-h1 {
+    font-size: 35px;
+    color: gray;
+    margin-left: 70px;
+  }
+  .hero-center-left-p {
+    margin-left: 149px;
+  }
+  .taom-center-card {
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 300px;
+  }
+  .taom-center-card2 {
+    margin-top: 150px;
+    margin-left: 50px;
+    width: 300px;
+  }
+  .taom-center-img {
+    margin-left: -20px;
+  }
+  .taom-center-img2 {
+    margin-left: -20px;
+  }
+  .spanbeans {
+    margin-left: -1px;
+    margin-top: -1px;
+  }
+  .spanbeans2 {
+    margin-left: -1px;
+    margin-top: -1px;
+  }
+  .taom-1-h5-keto {
+    margin-top: -50px;
+    margin-left: 40px;
+  }
+  .taom-1-h5-keto2 {
+    margin-top: -60px;
+    margin-left: 40px;
+  }
+  .frame-center-img {
+    margin-top: -50px;
+    margin-left: 265px;
+  }
+  .frame-center-img2 {
+    margin-top: -60px;
+    margin-left: 215px;
+  }
+  .login-card {
+    background-color: orange;
+    width: 358px;
+    height: 303px;
+    margin-top: 100px;
+    border: 1px white solid;
+    border-radius: 20px;
+    margin-left: 20px;
+  }
+  .login-card-h1 {
+    margin-left: 70px;
+    font-size: 20px;
+  }
+  .login-card-btn__login {
+    width: 50px;
+    border-radius: 12px;
+    margin-left: 10px;
+    font-size: 10px;
+    margin-top: -60px;
+  }
+  .taom-ochpaz-oldidagi {
+    position: absolute;
+    width: 150px;
+    margin-top: 155px;
+    margin-left: 70px;
+  }
+  .taom-ochpaz {
+    margin-top: 39px;
+    margin-left: 140px;
+  }
+}/*# sourceMappingURL=style.css.map */
